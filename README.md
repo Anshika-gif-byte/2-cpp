@@ -5,4 +5,4 @@ int main() {
         if(i%2==0) continue;
         cout<<I<<endl;
         }
-    }
+ }
